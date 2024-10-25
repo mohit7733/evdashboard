@@ -27,7 +27,7 @@ const Dashboard = () => {
             <footer class="footer">
                 <div class="footer-content">
                     <p class="footer-text">Data provided by the <strong>EV Population Dataset</strong>.</p>
-                    <p class="footer-text">Explore more about electric vehicles at <a href="https://www.ev.gov" target="_blank" class="footer-link">ev.gov</a>.</p>
+                    <p class="footer-text">Explore more about electric vehicles at <a class="footer-link">ev.gov</a>.</p>
                 </div>
                 <div class="footer-socials">
                     <a href="#" class="social-icon">Facebook</a>
