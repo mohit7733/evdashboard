@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Container, Grid, Typography } from '@mui/material';
+import { Container, Grid } from '@mui/material';
 import FilterSection from './filtersection';
 import EVTypeChart from './evtypechart';
 import EVRangeChart from './evrangchart';
